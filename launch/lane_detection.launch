@@ -1,0 +1,7 @@
+<launch>
+ 
+  <node pkg="lane_detection" type="lane_detection_node" name="lane_detection" output="screen" /> 
+ 
+</launch>
+
+
